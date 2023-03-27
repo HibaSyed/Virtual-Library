@@ -1,0 +1,8 @@
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\bin\Debug\week6_fileIO.exe.config
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\bin\Debug\week6_fileIO.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\bin\Debug\week6_fileIO.pdb
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\obj\Debug\week6_fileIO.csproj.AssemblyReference.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\obj\Debug\week6_fileIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\obj\Debug\week6_fileIO.csproj.CoreCompileInputs.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\obj\Debug\week6_fileIO.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\week6_fileIO\week6_fileIO\obj\Debug\week6_fileIO.pdb
